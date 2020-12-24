@@ -7,12 +7,17 @@ Discription:
     Here New user can register and create his account.
     ![](Register page.png)
     ![](successful registration.png)
+    ![](register.png)
    Login page: 
-    Here user can login in to his page. If other user try to create account using same mail id error message will occur.
+    Here user can login in to his page. 
     ![](login page.png)
+    ![](login erroe page.png)
    Logout page:
     Here user can view his profile page and aslo make changes using setting option and can logout.
     ![](logout page.png)
+   Server back end:
+    Here user registerd details of name, email, password are save in this page.
+    ![](back end of user account.png)
    
     
   
